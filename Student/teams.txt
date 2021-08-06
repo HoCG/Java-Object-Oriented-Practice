@@ -1,0 +1,5 @@
+1 lee f A
+2 kim m B
+3 choi m C
+4 park f A
+5 kang m B
